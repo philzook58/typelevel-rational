@@ -1,2 +1,1 @@
-# type-intervals
 # typelevel-rational
